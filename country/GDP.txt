@@ -1,0 +1,230 @@
+1      Liechtenstein                                      $139,100                                          
+2      Qatar                                              $127,700                                          
+3      Monaco                                             $115,700                                          
+4      Luxembourg                                         $104,000                                          
+5      Falkland Islands (Islas Malvinas)                  $96,200                                           
+6      Macau                                              $95,100                                           
+7      Singapore                                          $87,900                                           
+8      Bermuda                                            $85,700                                           
+9      Isle of Man                                        $84,600                                           
+10     Brunei                                             $76,900                                           
+11     Kuwait                                             $71,900                                           
+12     Ireland                                            $69,200                                           
+13     Norway                                             $69,200                                           
+14     United Arab Emirates                               $67,900                                           
+15     Sint Maarten                                       $66,800                                           
+16     Gibraltar                                          $61,700                                           
+17     Switzerland                                        $59,600                                           
+18     San Marino                                         $59,500                                           
+19     Hong Kong                                          $58,300                                           
+20     United States                                      $57,400                                           
+21     Saudi Arabia                                       $55,200                                           
+22     Guernsey                                           $52,500                                           
+23     Netherlands                                        $51,000                                           
+24     Bahrain                                            $50,700                                           
+25     Andorra                                            $49,900                                           
+26     Sweden                                             $49,800                                           
+27     Jersey                                             $49,500                                           
+28     Iceland                                            $49,200                                           
+29     Australia                                          $48,900                                           
+30     Taiwan                                             $48,100                                           
+31     Germany                                            $48,100                                           
+32     Austria                                            $48,000                                           
+33     Denmark                                            $48,000                                           
+34     Oman                                               $46,700                                           
+35     Canada                                             $46,400                                           
+36     Belgium                                            $45,000                                           
+37     Cayman Islands                                     $43,800                                           
+38     United Kingdom                                     $42,500                                           
+39     France                                             $42,300                                           
+40     British Virgin Islands                             $42,300                                           
+41     Finland                                            $42,200                                           
+42     Japan                                              $41,300                                           
+43     Faroe Islands                                      $40,000                                           
+44     Malta                                              $39,900                                           
+45     European Union                                     $39,200                                           
+46     Equatorial Guinea                                  $38,600                                           
+47     Puerto Rico                                        $38,400                                           
+48     Korea, South                                       $37,700                                           
+49     Greenland                                          $37,600                                           
+50     New Zealand                                        $37,300                                           
+51     Italy                                              $36,800                                           
+52     Spain                                              $36,400                                           
+53     Virgin Islands                                     $36,100                                           
+54     Israel                                             $35,200                                           
+55     Cyprus                                             $35,000                                           
+56     Saint Pierre and Miquelon                          $34,900                                           
+57     Czechia                                            $33,200                                           
+58     Slovenia                                           $32,100                                           
+59     Trinidad and Tobago                                $31,900                                           
+60     Slovakia                                           $31,300                                           
+61     New Caledonia                                      $31,100                                           
+62     Guam                                               $30,500                                           
+63     Lithuania                                          $30,000                                           
+64     Estonia                                            $29,300                                           
+65     Turks and Caicos Islands                           $29,100                                           
+66     Portugal                                           $28,900                                           
+67     Poland                                             $27,800                                           
+68     Seychelles                                         $27,600                                           
+69     Hungary                                            $27,500                                           
+70     Malaysia                                           $27,300                                           
+71     Greece                                             $26,700                                           
+72     Russia                                             $26,500                                           
+73     Saint Kitts and Nevis                              $26,100                                           
+74     Latvia                                             $25,700                                           
+75     Aruba                                              $25,300                                           
+76     Antigua and Barbuda                                $25,200                                           
+77     Kazakhstan                                         $25,100                                           
+78     Turkey                                             $24,900                                           
+79     Bahamas, The                                       $24,600                                           
+80     Chile                                              $24,100                                           
+81     Panama                                             $23,000                                           
+82     Croatia                                            $22,800                                           
+83     Romania                                            $22,300                                           
+84     Uruguay                                            $21,500                                           
+85     Mauritius                                          $20,400                                           
+86     Bulgaria                                           $20,300                                           
+87     Argentina                                          $20,000                                           
+88     Saint Martin                                       $19,300                                           
+89     Gabon                                              $19,100                                           
+90     Mexico                                             $18,900                                           
+91     Lebanon                                            $18,500                                           
+92     Iran                                               $18,100                                           
+93     Belarus                                            $18,000                                           
+94     Iraq                                               $17,900                                           
+95     Turkmenistan                                       $17,500                                           
+96     Azerbaijan                                         $17,400                                           
+97     Barbados                                           $17,100                                           
+98     Botswana                                           $17,000                                           
+99     French Polynesia                                   $17,000                                           
+100    Thailand                                           $16,900                                           
+101    Montenegro                                         $16,600                                           
+102    Costa Rica                                         $16,400                                           
+103    Dominican Republic                                 $16,000                                           
+104    Maldives                                           $15,500                                           
+105    Palau                                              $15,400                                           
+106    China                                              $15,400                                           
+107    Brazil                                             $15,200                                           
+108    Algeria                                            $15,000                                           
+109    Curacao                                            $15,000                                           
+110    Macedonia                                          $14,600                                           
+111    Serbia                                             $14,500                                           
+112    Grenada                                            $14,100                                           
+113    Colombia                                           $14,100                                           
+114    Suriname                                           $14,000                                           
+115    Venezuela                                          $13,800                                           
+116    Northern Mariana Islands                           $13,300                                           
+117    South Africa                                       $13,200                                           
+118    American Samoa                                     $13,000                                           
+119    Peru                                               $12,900                                           
+120    Egypt                                              $12,600                                           
+121    Jordan                                             $12,300                                           
+122    Cook Islands                                       $12,300                                           
+123    Sri Lanka                                          $12,300                                           
+124    Mongolia                                           $12,300                                           
+125    Anguilla                                           $12,200                                           
+126    Cuba                                               $11,900                                           
+127    Saint Lucia                                        $11,800                                           
+128    Albania                                            $11,800                                           
+129    Indonesia                                          $11,700                                           
+130    Tunisia                                            $11,600                                           
+131    Nauru                                              $11,600                                           
+132    Dominica                                           $11,300                                           
+133    Saint Vincent and the Grenadines                   $11,300                                           
+134    Namibia                                            $11,300                                           
+135    Ecuador                                            $11,100                                           
+136    Bosnia and Herzegovina                             $11,000                                           
+137    Georgia                                            $10,000                                           
+138    Swaziland                                          $9,800                                            
+139    Kosovo                                             $9,600                                            
+140    Paraguay                                           $9,400                                            
+141    Fiji                                               $9,300                                            
+142    Jamaica                                            $9,000                                            
+143    El Salvador                                        $8,900                                            
+144    Libya                                              $8,700                                            
+145    Armenia                                            $8,600                                            
+146    Montserrat                                         $8,500                                            
+147    Ukraine                                            $8,300                                            
+148    Morocco                                            $8,300                                            
+149    Belize                                             $8,200                                            
+150    Bhutan                                             $8,200                                            
+151    Guyana                                             $7,900                                            
+152    Guatemala                                          $7,900                                            
+153    Saint Helena, Ascension, and Tristan da Cunha      $7,800                                            
+154    Philippines                                        $7,700                                            
+155    Bolivia                                            $7,200                                            
+156    Angola                                             $6,800                                            
+157    Cabo Verde                                         $6,700                                            
+158    Congo, Republic of the                             $6,700                                            
+159    Uzbekistan                                         $6,600                                            
+160    India                                              $6,600                                            
+161    Vietnam                                            $6,400                                            
+162    Nigeria                                            $5,900                                            
+163    Niue                                               $5,800                                            
+164    Burma                                              $5,800                                            
+165    Laos                                               $5,700                                            
+166    Nicaragua                                          $5,500                                            
+167    Samoa                                              $5,500                                            
+168    Tonga                                              $5,400                                            
+169    Moldova                                            $5,300                                            
+170    Honduras                                           $5,300                                            
+171    Pakistan                                           $5,100                                            
+172    Sudan                                              $4,400                                            
+173    Ghana                                              $4,400                                            
+174    Mauritania                                         $4,300                                            
+175    West Bank                                          $4,300                                            
+176    Timor-Leste                                        $4,200                                            
+177    Bangladesh                                         $3,900                                            
+178    Zambia                                             $3,900                                            
+179    Wallis and Futuna                                  $3,800                                            
+180    Cambodia                                           $3,700                                            
+181    Cote d'Ivoire                                      $3,600                                            
+182    Lesotho                                            $3,600                                            
+183    Tuvalu                                             $3,500                                            
+184    Kyrgyzstan                                         $3,500                                            
+185    Papua New Guinea                                   $3,500                                            
+186    Kenya                                              $3,400                                            
+187    Djibouti                                           $3,400                                            
+188    Marshall Islands                                   $3,300                                            
+189    Cameroon                                           $3,200                                            
+190    Micronesia, Federated States of                    $3,200                                            
+191    Tanzania                                           $3,100                                            
+192    Sao Tome and Principe                              $3,100                                            
+193    Tajikistan                                         $3,000                                            
+194    Syria                                              $2,900                                            
+195    Vanuatu                                            $2,600                                            
+196    Senegal                                            $2,600                                            
+197    Nepal                                              $2,500                                            
+198    Western Sahara                                     $2,500                                            
+199    Chad                                               $2,400                                            
+200    Yemen                                              $2,400                                            
+201    Mali                                               $2,300                                            
+202    Uganda                                             $2,100                                            
+203    Benin                                              $2,100                                            
+204    Solomon Islands                                    $2,000                                            
+205    Zimbabwe                                           $2,000                                            
+206    Rwanda                                             $2,000                                            
+207    Afghanistan                                        $1,900                                            
+208    Ethiopia                                           $1,900                                            
+209    Haiti                                              $1,800                                            
+210    Burkina Faso                                       $1,800                                            
+211    Kiribati                                           $1,800                                            
+212    Sierra Leone                                       $1,700                                            
+213    South Sudan                                        $1,700                                            
+214    Guinea-Bissau                                      $1,700                                            
+215    Korea, North                                       $1,700                                            
+216    Gambia, The                                        $1,700                                            
+217    Togo                                               $1,600                                            
+218    Comoros                                            $1,500                                            
+219    Madagascar                                         $1,500                                            
+220    Eritrea                                            $1,400                                            
+221    Guinea                                             $1,300                                            
+222    Mozambique                                         $1,200                                            
+223    Malawi                                             $1,100                                            
+224    Niger                                              $1,100                                            
+225    Tokelau                                            $1,000                                            
+226    Liberia                                            $900                                              
+227    Burundi                                            $800                                              
+228    Congo, Democratic Republic of the                  $800                                              
+229    Central African Republic                           $700                                              
+230    Somalia                                            $400                                              
