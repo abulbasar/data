@@ -1,0 +1,224 @@
+Label,Description
+sitename.label,Site name
+sitetype.label,Site type
+year.label,4-digit Year of survey
+weight.label,Analysis weight
+stratum.label,Analysis stratum
+record.label,Record ID
+race4.label,4-level race variable
+race7.label,7-level race variable
+stheight.label,Height in meters
+stweight.label,Weight in kilograms
+bmi.label,Body Mass Index
+bmipct.label,BMI percentile
+qnobese.label,Obese
+qnowt.label,Overweight
+q8.label,How often wear bicycle helmet
+q9.label,How often wore a seat belt
+q10.label,How often ride w/drinking driver 30 days
+q11.label,How often drive while drinking 30 days
+q12.label,Texted while driving
+q13.label,Carried weapon 30 days
+q14.label,Carried gun 30 days
+q15.label,Carried weapon at school 30 days
+q16.label,How many days feel unsafe at school 30 days
+q17.label,How  many times threatened at school 12 mos
+q18.label,How many times in fight 12 mos
+q19.label,How many times injured in fight 12 mos
+q20.label,How many times in fight at school  12 mos
+q21.label,Have you been forced to have sex
+q22.label,Times physically hurt by dates 12 mos
+q23.label,Forced to do sexual things by dates
+q24.label,Have you ever been bullied at school
+q25.label,Have you ever been electronically bullied
+q26.label,Ever feel sad or hopeless 12 mos
+q27.label,Ever considered suicide 12 mos
+q28.label,Ever make suicide plan 12 mos
+q29.label,Ever attempt suicide 12 mos
+q30.label,Ever injured from suicide attempt 12 mos
+q31.label,Ever smoked
+q32.label,How old when first smoked
+q33.label,How many days smoked 30 days
+q34.label,How many cigarettes/day 30 days
+q35.label,How did you get cigarettes past 30 days
+q37.label,Have you ever smoked daily
+q38.label,Tried to quit smoking past 12 months
+q39.label,How many days use snuff past 30 days
+q40.label,How many days smoke cigars 30 days
+q41.label,How many days drink alcohol
+q42.label,How old when first drank alcohol
+q43.label,How many days drink alcohol 30 days
+q44.label,How many days have 5+ drinks 30 days
+q45.label,Max # drinks in a row past 30 days
+q46.label,How did you get alcohol past 30 days
+q47.label,How many times smoke marijuana
+q48.label,How old when first tried marijuana
+q49.label,How many times use marijuana 30 days
+q50.label,How many times use cocaine
+q51.label,How many times sniffed glue
+q52.label,How many times used heroin
+q53.label,How many times used methamphetamines
+q54.label,Ecstacy one or more time
+q55.label,How many times used steroids
+q56.label,How many times prescription drug
+q57.label,How many times injected drugs
+q58.label,Offered drugs at school 12 mos
+q59.label,Ever had sex
+q60.label,How old at first sex
+q61.label,How many sex partners
+q62.label,How many sex partners 3 mos
+q63.label,Did you use alcohol/drugs at last sex
+q64.label,Did you use condom at last sex
+q65.label,What birth control at last sex (recoded to bridge years)
+q66.label,How do you describe your weight
+q67.label,What are you trying to do about weight
+q68.label,Did you fast to lose weight 30 days
+q69.label,Did you take pill to lose weight 30 days
+q70.label,Did you vomit to lose weight 30 days
+q71.label,How many times fruit juice 7 days
+q72.label,How many times fruit 7 days
+q73.label,How many time green salad 7 days
+q74.label,How many times potatoes 7 days
+q75.label,How many times carrots 7 days
+q76.label,How many times other vegetables 7 days
+q77.label,How many times drink soda past 7 days
+q78.label,How many glass of milk 7 days
+q79.label,How often ate breakfast past 7 days
+q80.label,Days active 60 min plus past 7 days
+q81.label,How many hours watch TV
+q82.label,How many hours/day play video games
+q83.label,How many days go to PE class
+q84.label,On how many sports team 12 mos
+q85.label,Ever taught about AIDS/HIV at school
+q86.label,Ever been told you have asthma
+qn8.label,Never/rarely wore bicycle helmet
+qn9.label,Never/rarely wore seat belt
+qn10.label,Rode 1+ times with drinking driver
+qn11.label,Drove 1+ times when drinking
+qn12.label,Texted while driving 1+ times past 30 days
+qn13.label,Carried weapon 1+ times past 30 days
+qn14.label,Carried gun 1+ past 30 days
+qn15.label,Carried weapon school 1+ past 30 days
+qn16.label,Missed school b/c unsafe 1+ 30 days
+qn17.label,Threatened at school 1+ times 12 mos
+qn18.label,Fought 1+ times 12 mos
+qn19.label,Injured/treated 1+ times 12 mos
+qn20.label,Fought school 1+ times 12 mos
+qn21.label,Forced to have sex
+qn22.label,Hurt by date 1+ times past 12 mos
+qn23.label,Forced to do sexual by date past 12 mos
+qn24.label,Bullied past 12 months
+qn25.label,Electronically bullied 12 mos
+qn26.label,Sad 2 wks past 12 mos
+qn27.label,Considered suicide 12 mos
+qn28.label,Made suicide plan 12 mos
+qn29.label,Attempted suicide 1+ times 12 mos
+qn30.label,Suicide attempt w/injury 12 mos
+qn31.label,Ever tried cigarettes
+qn32.label,Smoked cigarette before 13
+qn33.label,Smoked 1+ past 30 days
+qn34.label,10+ cigarettes/day past 30 days
+qn35.label,Got cigarettes in store 30 days
+qn37.label,Smoked daily for 30 days
+qn38.label,"Among smokers, tried to quit smoking"
+qn39.label,Used snuff/dip 1+ past 30 days
+qn40.label,Smoked cigars 1+ past 30 days
+qn41.label,Had 1 drink on 1+ days in life
+qn42.label,Had first drink before 13
+qn43.label,Had 1+ drinks past 30 days
+qn44.label,Five+ drinks 1+ past 30 days
+qn45.label,10+ drinks in a row past 30 days
+qn46.label,Someone gave them alcohol past 30 days
+qn47.label,Tried marijuana 1+ times in life
+qn48.label,Tried marijuana before 13
+qn49.label,Used marijuana 1+ times past 30 days
+qn50.label,Used cocaine 1+ times in life
+qn51.label,Sniffed glue 1+ times in life
+qn52.label,Used heroin 1+ times in life
+qn53.label,Used meth 1+ times in life
+qn54.label,Used ecstasy 1+ times in life
+qn55.label,Took steroids 1+ times in life
+qn56.label,Taken prescription drug wo prescription
+qn57.label,Injected drugs 1+ times in life
+qn58.label,Offered/sold drugs at school 12 mos
+qn59.label,Had sex ever
+qn60.label,Had sex before 13
+qn61.label,Had sex with 4+ people in life
+qn62.label,Had sex with 1+ people 3 mos
+qn63.label,"Of current sex, used alcohol last time"
+qn64.label,"Of current sex, used condom last time"
+qn65.label,"Of current sex, used birth ctl last sx"
+qn66.label,Slightly/very overweight
+qn67.label,Trying to lose weight
+qn68.label,Fasted to lose weight past 30 days
+qn69.label,Took pills to lose weight past 30 days
+qn70.label,Vomited to lose weight past 30 days
+qn71.label,Drank fruit juice past 7 days
+qn72.label,Ate fruit past 7 days
+qn73.label,Ate green salad past 7 days
+qn74.label,Ate potatoes past 7 days
+qn75.label,Ate carrots past 7 days
+qn76.label,Ate vegetables past 7 days
+qn77.label,Drink soda 1+ times/day past 7 days
+qn78.label,Drank 3+ glasses milk/day past 7 days
+qn79.label,Ate breakfast on all of the past 7 days
+qn80.label,Active 60 min on 5+ past 7 days
+qn81.label,Watched 3+ hours of TV average day
+qn82.label,Played video games 3+ hours/day
+qn83.label,Go to PE class 1+ days average week
+qn84.label,Played on 1+ sports teams 12 mos
+qn85.label,Taught about AIDS in school
+qn86.label,Told by doctor/nurse they had asthma
+qnfrcig.label,Smoked on 20 past 30 days
+qndaycig.label,Percentage of students who smoked daily during the past 30 days
+qnanytob.label,Used any tobacco past 30 days
+qnothh.label,"Of current sex, used Depo last sex"
+qnothhpl.label,"Of current sex, birth ctrl/Depo last sex"
+qndualbc.label,"Of current sex, condom + birth ctrl/Depo"
+qnbcnone.label,"Of current sex, no birth ctrl"
+qniudimp.label,"Of current sex, used IUD/Implant"
+qnshparg.label,"Of current sex, used shot/patch/ring"
+qnpa0day.label,Active 60 min on none of past 7 days
+qnpa7day.label,Active 60 min on all of past 7 days
+qnfrvg.label,Ate 5+ fruits/vegetables/day 7 days
+qnfruit.label,Ate fruit/drank juice 2+ times/day
+qnveg.label,Ate 3+ vegetables/day 7 days
+qnfrvg2.label,Ate 2+fruits and 3+vegetables/day 7 days
+qnfr0.label,Ate fruit/drank juice 0 times/day
+qnfr1.label,Ate fruit/drank juice 1+ times/day
+qnfr3.label,Ate fruit/drank juice 3+ times/day
+qnveg0.label,Ate 0 vegetables/day 7 days
+qnveg1.label,Ate 1+ vegetables/day 7 days
+qnveg2.label,Ate 2+ vegetables/day 7 days
+qnsoda0.label,Drank soda 0 times/day past 7 days
+qnsoda2.label,Drank soda 2+ times/day past 7 days
+qnsoda3.label,Drank soda 3+ times/day past 7 days
+qnmilk0.label,Drank 0 glasses milk/day past 7 days
+qnmilk1.label,Drank 1+ glasses milk/day past 7 days
+qnmilk2.label,Drank 2+ glasses milk/day past 7 days
+qnnobkft.label,Ate breakfast on none of the past 7 days
+qndlype.label,Attended PE class daily
+qhivtesting.label,Ever tested for HIV
+qsunscreenuse.label,Sunscreen use outside
+qindoortanning.label,How many times indoor tanning
+qsleep.label,Hours of sleep on school night
+qmusclestrength.label,Strengthen muscles past 7 days
+qacademic.label,Describe your grades in school
+qcigschool.label,Days use cigarettes school property 30 days
+qchewtobschool.label,Days use snuff school property 30 days
+qalcoholschool.label,How many days drink at school 30 days
+qmarijuanaschool.label,How many times marijuana at school 30 days
+qcurrentcocaine.label,How many times use cocaine 30 days
+qcurrentasthma.label,Do you still have asthma
+qnhivtesting.label,Tested for HIV
+qnsunscreenuse.label,Mostly or always wear sunscreen
+qnindoortanning.label,Used 1+ times indoor tanning
+qnsleep.label,Get 8+ hours sleep
+qnmusclestrength.label,Strengthened muscles 3+ of past 7 days
+qnacademic.label,Grades in school mostly As or Bs
+qncigschool.label,Used cigarettes at school 1+ 30 days
+qnchewtobschool.label,Used snuff/dip at school 1+ 30 days
+qnalcoholschool.label,Had 1+ drinks at school 1+ 30 days
+qnmarijuanaschool.label,Used marijuana at school 1+ times 30 day
+qncurrentcocaine.label,Used cocaine 1+ times past 30 days
+qncurrentasthma.label,With current asthma
