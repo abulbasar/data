@@ -1,0 +1,20 @@
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+plotly-express
+mlxtend
+graphviz
+tensorflow-cpu
+jupyter
+xgboost-cpu
+# Latest scipy has a breaking change for statstmodel
+scipy==1.15.3
+statsmodels==0.14.4
+shap
+pymysql
+jinja2 
+flask
+requests
+pillow
